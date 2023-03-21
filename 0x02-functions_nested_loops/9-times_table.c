@@ -4,7 +4,7 @@
 (*
  * Return: Nothing.
  */
-void times_table(void)
+void times_table()
 {
 	int i, j, res;
 
