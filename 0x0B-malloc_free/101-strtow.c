@@ -62,4 +62,3 @@ char **strtow(char *str)
 	p[j] = NULL;
 	return (p);
 }
-
